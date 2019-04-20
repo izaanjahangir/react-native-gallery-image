@@ -1,0 +1,19 @@
+{
+  "name": "react-native-image-container",
+  "version": "1.0.0",
+  "description": "This is a cool react native image gallery, allow you to beautifully bootstrap images in react native",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "Izaan jahangir",
+  "license": "ISC",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": ""
+}
