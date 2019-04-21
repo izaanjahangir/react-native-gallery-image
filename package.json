@@ -1,6 +1,6 @@
 {
-  "name": "react-native-image-container",
-  "version": "1.0.0",
+  "name": "react-native-gallery-image",
+  "version": "1.0.1",
   "description": "This is a cool react native image gallery, allow you to beautifully bootstrap images in react native",
   "main": "index.js",
   "directories": {
