@@ -3,9 +3,9 @@
 
 ## Preview
 
-Layout doesn't break on rotate            |  Selecting images
-:-------------------------:|:-------------------------:
-![GIF](previews/libraryrotating.gif)  |  ![GIF](previews/libraryselecting.gif)
+Layout doesn't break on rotate        |  Selecting images                      | Changing props
+:------------------------------------:|:--------------------------------------:|---------------:
+![GIF](previews/libraryrotating.gif)  |  ![GIF](previews/libraryselecting.gif) | ![GIF](previews/librarytesting.gif)
 
 ## installation
 
@@ -49,3 +49,6 @@ export default class App extends Component {
 | selectionColor | `String`    | Color of border that will appear on image selection                                        | ❌       | 'blue'   |
 | onSelect       | `function`  | a function, which will be called when image is selected, returns array of selected images  | ❌       |          |
 | onImagePress   | `function`  | a function, which will be called when individual image is pressed, returns pressed image   | ❌       |          |
+
+### Example
+[Click here to download running example](https://github.com/izaanjahangir/react-native-gallery-image-example)
