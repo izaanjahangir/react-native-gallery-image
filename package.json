@@ -1,6 +1,6 @@
 {
   "name": "react-native-gallery-image",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "This is a cool react native image gallery, allow you to beautifully bootstrap images in react native",
   "main": "index.js",
   "directories": {
@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/izaanjahangir/react-native-gallery-image"
   },
   "author": "Izaan jahangir",
   "license": "ISC",
   "bugs": {
-    "url": ""
+    "url": "https://github.com/izaanjahangir/react-native-gallery-image"
   },
-  "homepage": ""
+  "homepage": "https://github.com/izaanjahangir/react-native-gallery-image"
 }
