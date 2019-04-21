@@ -3,8 +3,9 @@
 
 ## Preview
 
-![GIF](previews/libraryrotating.gif)
-![GIF](previews/libraryselecting.gif)
+Layout doesn't break on rotate            |  Selecting images
+:-------------------------:|:-------------------------:
+![GIF](previews/libraryrotating.gif)  |  ![GIF](previews/libraryselecting.gif)
 
 ## installation
 
