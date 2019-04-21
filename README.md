@@ -1,4 +1,10 @@
 # React Native Gallery Image
+![PNG](previews/basic-example.png)
+
+## Preview
+
+![GIF](previews/libraryrotating.gif)
+![GIF](previews/libraryselecting.gif)
 
 ## installation
 
@@ -17,6 +23,7 @@ or
 import ReactNativeGalleryImage from 'react-native-gallery-image';
 
 export default class App extends Component {
+
   render() {
     return (
       <ReactNativeGalleryImage
@@ -36,7 +43,7 @@ export default class App extends Component {
 | Props          | Type        | Notes                                                                                      | Required | Default  |
 | --------       | ----------- | ------------------------------------------------------------------------------------------ | -------- | -------- |
 | images         | `Array`     | Array of images                                                                            | ✔️       |          |
-| imagesEachRow  | `Number`    | Number deserve in one row                                                                  | ❌       |     3    |
+| imagesEachRow  | `Number`    | Number of images needed in one row                                                         | ❌       |     3    |
 | shouldFit      | `Boolean`   | if true then images will fit on line if extra space is left in row                         | ❌       |  false   |
 | selectionColor | `String`    | Color of border that will appear on image selection                                        | ❌       | 'blue'   |
 | onSelect       | `function`  | a function, which will be called when image is selected, returns array of selected images  | ❌       |          |
