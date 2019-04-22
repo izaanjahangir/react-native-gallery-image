@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import { View, ScrollView, TextInput, Switch, Text } from "react-native";
-import ReactNativeGalleryImage from "react-native-gallery-image";
+import ReactNativeGalleryImage from "./lib/index";
 
 import styles from "./styles";
 import images from "./config/images";
